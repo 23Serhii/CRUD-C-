@@ -1,0 +1,31 @@
+C:\Users\user\Desktop\Курсові\Опанасенко 19\Опанасенко\Опанасенко\bin\Debug\Опанасенко.exe.config
+C:\Users\user\Desktop\Курсові\Опанасенко 19\Опанасенко\Опанасенко\bin\Debug\Опанасенко.exe
+C:\Users\user\Desktop\Курсові\Опанасенко 19\Опанасенко\Опанасенко\bin\Debug\Опанасенко.pdb
+C:\Users\user\Desktop\Курсові\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Курсові\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.Form1.resources
+C:\Users\user\Desktop\Курсові\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.Properties.Resources.resources
+C:\Users\user\Desktop\Курсові\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Курсові\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Курсові\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.exe
+C:\Users\user\Desktop\Курсові\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.pdb
+C:\Users\1111\Desktop\Опанасенко 19\Опанасенко\Опанасенко\bin\Debug\Опанасенко.exe.config
+C:\Users\1111\Desktop\Опанасенко 19\Опанасенко\Опанасенко\bin\Debug\Опанасенко.exe
+C:\Users\1111\Desktop\Опанасенко 19\Опанасенко\Опанасенко\bin\Debug\Опанасенко.pdb
+C:\Users\1111\Desktop\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.csprojAssemblyReference.cache
+C:\Users\1111\Desktop\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.Form1.resources
+C:\Users\1111\Desktop\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.Properties.Resources.resources
+C:\Users\1111\Desktop\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.csproj.GenerateResource.cache
+C:\Users\1111\Desktop\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.csproj.CoreCompileInputs.cache
+C:\Users\1111\Desktop\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.exe
+C:\Users\1111\Desktop\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.pdb
+C:\Users\Sega\Desktop\Опанасенко 19\Опанасенко 19\Опанасенко\Опанасенко\bin\Debug\Опанасенко.exe.config
+C:\Users\Sega\Desktop\Опанасенко 19\Опанасенко 19\Опанасенко\Опанасенко\bin\Debug\Опанасенко.exe
+C:\Users\Sega\Desktop\Опанасенко 19\Опанасенко 19\Опанасенко\Опанасенко\bin\Debug\Опанасенко.pdb
+C:\Users\Sega\Desktop\Опанасенко 19\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.csproj.AssemblyReference.cache
+C:\Users\Sega\Desktop\Опанасенко 19\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sega\Desktop\Опанасенко 19\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.Form1.resources
+C:\Users\Sega\Desktop\Опанасенко 19\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.Properties.Resources.resources
+C:\Users\Sega\Desktop\Опанасенко 19\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.csproj.GenerateResource.cache
+C:\Users\Sega\Desktop\Опанасенко 19\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.csproj.CoreCompileInputs.cache
+C:\Users\Sega\Desktop\Опанасенко 19\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.exe
+C:\Users\Sega\Desktop\Опанасенко 19\Опанасенко 19\Опанасенко\Опанасенко\obj\Debug\Опанасенко.pdb
